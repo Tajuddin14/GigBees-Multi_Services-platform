@@ -125,7 +125,7 @@ class _RazorpaymentGatewayState extends State<RazorpaymentGatewayDryCleaning> {
 
     // Razorpay options with strong readonly enforcement for contact
     var options = {
-      'key': 'rzp_test_ezZiAOBKUp98u3', // Replace with actual Razorpay key
+      'key': 'key', // Replace with actual Razorpay key
       'amount': widget.finalAmount * 100, // Razorpay takes amount in paisa
       'name': 'Dry Cleaning Service',
       'description': '${widget.cart.length} items',
