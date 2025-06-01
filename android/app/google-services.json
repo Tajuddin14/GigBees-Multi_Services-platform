@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740479974874",
+    "project_id": "gigbees-4d81d",
+    "storage_bucket": "gigbees-4d81d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740479974874:android:1969d0baf2e6f73d1194e3",
+        "android_client_info": {
+          "package_name": "com.example.auth_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXOmxpVX9ywnZZnKpeTNCUnwYLJIlXg1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
