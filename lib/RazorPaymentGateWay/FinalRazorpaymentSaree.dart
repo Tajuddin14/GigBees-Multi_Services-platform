@@ -63,7 +63,7 @@ class _RazorpayPaymentScreenState extends State<RazorpayPaymentScreen> {
 
       // Prepare payment options
       var options = {
-        'key': 'rzp_test_ezZiAOBKUp98u3', // Replace with your Razorpay key
+        'key': 'key', // Replace with your Razorpay key
         'amount': (widget.totalAmount * 100).toInt(), // Amount in smallest currency unit
         'name': 'GigBees Saree Delivery',
         'description': 'Payment for Order #${widget.orderId}',
